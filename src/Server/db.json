@@ -1,0 +1,51 @@
+{
+  "places": [
+    {
+      "id": 1,
+      "title": "Agra",
+      "ptofattraction": "Taj-mahal",
+      "slug": "Ag-Taj"
+    },
+    {
+      "id": 3,
+      "title": "Amritsar",
+      "ptofattraction": "Golden Temple",
+      "slug": "Amri-Gold"
+    },
+    {
+      "id": 4,
+      "title": "delhi",
+      "ptofattraction": "India gate",
+      "createdAt": 1629783664930,
+      "slug": "delhi"
+    },
+    {
+      "id": 5,
+      "title": "mumbai",
+      "ptofattraction": "vadapav",
+      "createdAt": 1629783690396,
+      "slug": "mumbai"
+    },
+    {
+      "id": 6,
+      "title": "abcd",
+      "ptofattraction": "abcd",
+      "createdAt": 1629831496737,
+      "slug": "abcd"
+    },
+    {
+      "id": 7,
+      "title": "abcd",
+      "ptofattraction": "abcd",
+      "createdAt": 1629870332719,
+      "slug": "abcd"
+    },
+    {
+      "id": 8,
+      "title": "Goa",
+      "ptofattraction": "Beaches",
+      "createdAt": 1629871547963,
+      "slug": "Goa"
+    }
+  ]
+}
