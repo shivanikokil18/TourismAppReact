@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###India Tourism App -> using react 
+### India Tourism App -> using react 
 This is website for teavel enthusiasts to wonder around.
 It is developed using
 1. React
